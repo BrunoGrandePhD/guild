@@ -21,6 +21,6 @@ _noun_
 
 * a medieval association of craftsmen or merchants, often having considerable power.
 	* an association of people for mutual aid or the pursuit of a common goal.
-	* Ecology a group of species that have similar requirements and play a similar role within a community.
+	* _Ecology_ a group of species that have similar requirements and play a similar role within a community.
 
 ----
