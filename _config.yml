@@ -1,17 +1,18 @@
 # Site settings
-lab_name: Ryan Morin Lab
-institution: Simon Fraser University
-email: contact@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+lab_name: John Doe Lab
+institution: Science University
+email: john.doe@example.com
+description: >
+  This research lab specializes in science and makes
+  novel discoveries with translational impact.
+baseurl: ""
+url: "http://johndoelab.github.io"
+twitter_username: johndoelab
+github_username:  johndoelab
 
 # Build settings
 markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
+gems:
+    - jekyll-redirect-from
