@@ -1,18 +1,16 @@
 # Site settings
-lab_name: John Doe Lab
+lab_name: Bruno Grande Lab
 institution: Science University
-email: john.doe@example.com
+email: bgrande@sfu.ca
 description: >
   This research lab specializes in science and makes
   novel discoveries with translational impact.
-baseurl: ""
-url: "http://johndoelab.github.io"
-twitter_username: johndoelab
-github_username:  johndoelab
+baseurl: "/guild"
+url: "http://bgran.de/guild"
+twitter_username: grandebruno
+github_username:  brunogrande
 
 # Build settings
 markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
-gems:
-    - jekyll-redirect-from
