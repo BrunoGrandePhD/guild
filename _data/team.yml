@@ -1,0 +1,48 @@
+- name: Dr. Bruno Grande
+  is_pi: True
+  is_current: True
+  position: Professor
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales. Aliquam posuere, ipsum at molestie ullamcorper, mi lectus commodo elit, ut
+    tempus diam dolor sed nisi. Mauris vel tortor libero. Aliquam ultrices lacus sit amet
+    felis aliquam eget malesuada erat rhoncus. Class aptent taciti sociosqu ad litora
+    torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
+    id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
+    aliquet dui et metus suscipit eget iaculis libero sagittis.
+  photo: pi.jpg
+
+- name: Sally Smith
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales. Mauris vel tortor libero.
+  photo: sally.jpg
+
+- name: Tom Riddle
+  is_pi: False
+  is_current: True
+  position: MSc Student
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales.
+  photo: tom.jpg
+
+- name: Harry Potter
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales.
+  photo: harry.jpg

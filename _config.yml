@@ -9,6 +9,7 @@ baseurl: "/guild"
 url: "http://bgran.de/guild"
 twitter_username: grandebruno
 github_username:  brunogrande
+images_dir: "/images/"
 
 # Build settings
 markdown: kramdown

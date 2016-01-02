@@ -45,9 +45,17 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    border-radius: 0.4em;
+}
+
+img.float-left {
+    float: left;
+    margin: 0 $border-unit $border-unit 0;
+}
+
+img.float-right {
+    float: right;
     margin: 0 0 $border-unit $border-unit;
-    border-radius: $border-unit;
-    border: 1px solid $brand-color;
 }
 
 

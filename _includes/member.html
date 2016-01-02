@@ -1,0 +1,7 @@
+<li>
+    <h2><span class="member-name">{{ member.name }}</span>{% if member.position %}, {{ member.position }}{% endif %}</h2>
+    {% if member.photo %}
+        <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}">
+    {% endif %}
+    <p>{{ member.bio }}</p>
+</li>
