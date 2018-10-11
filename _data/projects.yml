@@ -1,31 +1,15 @@
-- name: Investigation of Mysterious Phenomena
+- name: Genetic and molecular mechanisms of treatment resistance in diffuse large B-cell lymphoma (DLBCL)
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales. Aliquam posuere, ipsum at molestie ullamcorper, mi lectus commodo elit, ut
-    tempus diam dolor sed nisi. Mauris vel tortor libero. Aliquam ultrices lacus sit amet
-    felis aliquam eget malesuada erat rhoncus. Class aptent taciti sociosqu ad litora
-    torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
-    id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
-    aliquet dui et metus suscipit eget iaculis libero sagittis.
-  funding: CIHR
-  collaborators:
-  assignees: Sally Smith
+    Add description. 
+  funding: Terry Fox Research Institute
+  collaborators: Christian Steidl, David Scott, Nathalie Johnson
+  assignees: Chris Rushton, Laura Hilton, Miguel Alcaide
   photo: science.png
 
-- name: Characterization of Elusive Processes
+- name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales. Aliquam posuere, ipsum at molestie ullamcorper, mi lectus commodo elit, ut
-    tempus diam dolor sed nisi. Mauris vel tortor libero. Aliquam ultrices lacus sit amet
-    felis aliquam eget malesuada erat rhoncus. Class aptent taciti sociosqu ad litora
-    torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
-    id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
-    aliquet dui et metus suscipit eget iaculis libero sagittis.
-  funding: NSERC
-  collaborators: Dr. Imp Ortant
-  assignees: Tim Riddle
+    Add description
+  funding: Terry Fox Research Institute
+  collaborators: Marco Marra, David Scott, Diego Villa
+  assignees: Prasath Pararajalingam
   photo: biology.png
