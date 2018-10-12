@@ -1,10 +1,16 @@
 - name: Genetic and molecular mechanisms of treatment resistance in diffuse large B-cell lymphoma (DLBCL)
   description: >
-    Add description. 
+    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent. 
+    DLBCL patients exhibit variable responses to available therapies such as R-CHOP. Some biomarkers beginning to enter clinical trials rely on gene expression signatures to identify high-risk cases.
+     For example, DLBCL comprises two cell-of-origin (COO) subgroups with activated B-cell (ABC) cases typically having worse prognosis than germinal centre B-cell (GCB) cases.
+     Therapeutics that exploit molecular features unique to each subgroup are being actively pursued but up-front identification of patients unlikely to achieve a durable response remains a challenge.
+     Although existing methods can identify specific prognostic gene expression features, these capture only some of the clinical heterogeneity and require tumour RNA, which is not always available. 
+     Using comprehensive genomic analyses and by integrating mutation and expression data from over 2000 DLBCL tumours, we seek novel molecular features that are associated with treatment resistance in DLBCL.
+     The ultimate goal of this work is to develop new predictive and prognostic biomarkers and identify new therapeutic targets for treatment-resistant DLBCLs. 
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Laura Hilton, Miguel Alcaide
-  photo: science.png
+  photo: FCGR2B_cropped.png
 
 - name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
   description: >
@@ -12,12 +18,24 @@
   funding: Terry Fox Research Institute
   collaborators: Marco Marra, David Scott, Diego Villa
   assignees: Prasath Pararajalingam
-  photo: biology.png
+  photo: mcl_oncoplot.png
 
 - name: Identification and functional characterization of recurrent non-coding mutations in non-Hodgkin lymphomas
   description: >
-    Add description. 
+       The list of protein-coding drivers identified through sequencing has begun to saturate and yet there remains a gap in our understanding of how these or additional genetic alterations contribute to the transcriptional differences underlying known prognostic signatures.
+       For example, dysregulation of NF-κB is the hallmark feature of ABC DLBCL but many ABC cases appear to lack the common driver mutations that are known to promote NF-κB. We are seeking driver mutations that contribute to some features of NHLs.
+       We use data-driven comprehnsive methods that allow identification of non-coding SSMs with a regulatory effect in cis or trans on genes/proteins relevant to malignancy.   
   funding: Terry Fox Research Institute, CIHR
   collaborators: Christian Steidl, David Scott
   assignees: Sarah Arthur, Krysta Coyle
-  photo: science.png
+  photo: NFKBIZ_overview_cropped.png
+
+- name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
+  description: >
+    Add description
+  funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
+  collaborators: Marco Marra, Louis Staudt
+  assignees: Bruno Grande
+  photo: mcl_oncoplot.png
+
+  

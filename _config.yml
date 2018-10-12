@@ -1,14 +1,14 @@
 # Site settings
-lab_name: Bruno Grande Lab
-institution: Science University
-email: bgrande@sfu.ca
+lab_name: Morin laboratory
+institution: Simon Fraser University
+email: rdmorin@sfu.ca
 description: >
   This research lab specializes in science and makes
   novel discoveries with translational impact.
 baseurl: "/guild"
 url: "http://bgran.de/guild"
-twitter_username: grandebruno
-github_username:  brunogrande
+twitter_username: morinryan
+github_username:  morinlab
 images_dir: "/images/"
 
 # Build settings

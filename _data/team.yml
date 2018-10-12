@@ -1,20 +1,62 @@
-- name: Dr. Bruno Grande
+- name: Dr. Ryan D. Morin
   is_pi: True
   is_current: True
-  position: Professor
+  position: Associate Professor
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales. Aliquam posuere, ipsum at molestie ullamcorper, mi lectus commodo elit, ut
-    tempus diam dolor sed nisi. Mauris vel tortor libero. Aliquam ultrices lacus sit amet
-    felis aliquam eget malesuada erat rhoncus. Class aptent taciti sociosqu ad litora
-    torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
-    id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
-    aliquet dui et metus suscipit eget iaculis libero sagittis.
-  photo: pi.jpg
+    Dr. Morin is co-appointed in the department of Molecular Biology and Biochemistry at SFU and the BC Cancer Agency’s Genome Sciences Centre.
+    He earned both M.Sc. and Ph.D. degrees in bioinformatics from UBC in the laboratory of Marco Marra.
+    Dr. Morin's early research involved the use of massively parallel sequencing to identify driver mutations in leukemias and lymphomas including histone modifiers such as EZH2 and KMT2D.
+    His current research focus involves using genome and transcriptome sequencing to discover novel drivers in B-cell lymphomas and to determine mechanisms that underlie tumour progression and treatment resistance. 
+    Morin has an interest in developing methods to identify non-coding mutations with regulatory potential from genome-wide data sets and algorithms to identify mutations and copy number information from circulating tumour DNA. 
+  photo: RDM_headshot.jpg
 
-- name: Sally Smith
+- name: Stephen Yu
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    Circulating tumour DNA (ctDNA) is rapidly becoming adopted as a sensitive biomarker for non-invasive monitoring of treatment response in many cancer types.
+    Stephen's work helped to establish and validate numerous assays for quantifying ctDNA in plasma from lymphoma patients.
+    These assays demonstrated prognostic utility of ctDNA in multiple clinical trials. 
+  photo: stephen_grad.jpg
+
+- name: Kevin Bushell
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    Lymphoma is the most common cancer affecting pet dogs. Kevin used genomic techniques to identify mutations involved in lymphomagenesis in canine B-cell lymphoma.
+    His work identified TRAF3 as one of the most commonly mutated genes in this cancer. He also studied the potential utility of ctDNA in a variety of human cancers.
+    He joined our laboratory full-time after graduating and has since started law school. 
+  photo: harry.jpg
+
+
+- name: Arezoo Mohajeri
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    Arezoo generated and analyzed exome sequence data from DLBCL and mantle cell lymphoma (MCL) tumours.
+    Her thesis project involved a meta-analysis of published and in-house exome data to identify new recurrently-mutated genes in MCL including a novel silent mutation hot spot in MAP3K14. 
+  photo: sally.jpg
+
+- name: Bruno Grande
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    Bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno 
+  photo: sally.jpg
+
+- name: Christopher Rushton
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    Chris Chris Chris Chris Chris  
+  photo: sally.jpg
+
+- name: Sarah Arthur
   is_pi: False
   is_current: True
   position: PhD Student
@@ -22,10 +64,21 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
     amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales. Mauris vel tortor libero.
-  photo: sally.jpg
+    leo sodales.
+  photo: tom.jpg
 
-- name: Tom Riddle
+- name: Prasath Pararajalingam
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales.
+  photo: harry.jpg
+
+- name: Jeffrey Tang
   is_pi: False
   is_current: True
   position: MSc Student
@@ -34,15 +87,41 @@
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
     amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
     leo sodales.
-  photo: tom.jpg
+  photo: harry.jpg
 
-- name: Harry Potter
+- name: Dr. Miguel Alcaide
   is_pi: False
-  is_current: False
-  position: MSc Student
+  is_current: True
+  position: Research Associate
   bio: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
     amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
     leo sodales.
   photo: harry.jpg
+
+- name: Dr. Laura Hilton
+  is_pi: False
+  is_current: True
+  position: Postdoctoral Fellow
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales.
+  photo: harry.jpg
+
+- name: Dr. Krysta Coyle
+  is_pi: False
+  is_current: True
+  position: Postdoctoral Fellow
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales.
+  photo: tom.jpg
+
+
+
+
