@@ -3,11 +3,11 @@
   is_current: True
   position: Associate Professor
   bio: >
-    Dr. Morin is co-appointed in the department of Molecular Biology and Biochemistry at SFU and the BC Cancer Agency’s Genome Sciences Centre.
-    He earned both M.Sc. and Ph.D. degrees in bioinformatics from UBC in the laboratory of Marco Marra.
+    Dr. Morin is in the department of Molecular Biology and Biochemistry at SFU and BC Cancer's Genome Sciences Centre.
+    He earned MSc and PhD in bioinformatics from UBC in the laboratory of Marco Marra.
     Dr. Morin's early research involved the use of massively parallel sequencing to identify driver mutations in leukemias and lymphomas including histone modifiers such as EZH2 and KMT2D.
     His current research focus involves using genome and transcriptome sequencing to discover novel drivers in B-cell lymphomas and to determine mechanisms that underlie tumour progression and treatment resistance. 
-    Morin has an interest in developing methods to identify non-coding mutations with regulatory potential from genome-wide data sets and algorithms to identify mutations and copy number information from circulating tumour DNA. 
+    Morin has an interest in developing methods to identify non-coding mutations with regulatory potential from genome-wide data sets and algorithms to identify mutations and copy number from circulating tumour DNA. 
   photo: RDM_headshot.jpg
 
 - name: Stephen Yu
@@ -28,7 +28,7 @@
     Lymphoma is the most common cancer affecting pet dogs. Kevin used genomic techniques to identify mutations involved in lymphomagenesis in canine B-cell lymphoma.
     His work identified TRAF3 as one of the most commonly mutated genes in this cancer. He also studied the potential utility of ctDNA in a variety of human cancers.
     He joined our laboratory full-time after graduating and has since started law school. 
-  photo: harry.jpg
+  photo: Kevin_headshot.jpg
 
 
 - name: Arezoo Mohajeri
@@ -40,21 +40,17 @@
     Her thesis project involved a meta-analysis of published and in-house exome data to identify new recurrently-mutated genes in MCL including a novel silent mutation hot spot in MAP3K14. 
   photo: sally.jpg
 
-- name: Bruno Grande
+- name: Dr. Miguel Alcaide
   is_pi: False
   is_current: True
-  position: PhD Student
+  position: Research Associate
   bio: >
-    Bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno bruno 
-  photo: sally.jpg
-
-- name: Christopher Rushton
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  bio: >
-    Chris Chris Chris Chris Chris  
-  photo: sally.jpg
+    In the beginning back in nineteen fifty five man didn't know 'bout a rock 'n' roll show
+    And all that jive the white man had the schmaltz the black man had the blues, no one knew what they was gonna do
+    But Tchaikovsky had the news he said let there be sound, there was sound. Let there be light, there was light
+    Let there be drums, there was drums
+    Let there be guitar, there was guitar. Let there be rock
+  photo: Miguel_asleep.jpg
 
 - name: Sarah Arthur
   is_pi: False
@@ -65,62 +61,74 @@
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
     amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
     leo sodales.
-  photo: tom.jpg
-
-- name: Prasath Pararajalingam
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales.
-  photo: harry.jpg
-
-- name: Jeffrey Tang
-  is_pi: False
-  is_current: True
-  position: MSc Student
-  bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales.
-  photo: harry.jpg
-
-- name: Dr. Miguel Alcaide
-  is_pi: False
-  is_current: True
-  position: Research Associate
-  bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales.
-  photo: harry.jpg
-
-- name: Dr. Laura Hilton
-  is_pi: False
-  is_current: True
-  position: Postdoctoral Fellow
-  bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales.
-  photo: harry.jpg
+  photo: Sarah_headshot.jpg
 
 - name: Dr. Krysta Coyle
   is_pi: False
   is_current: True
   position: Postdoctoral Fellow
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
-    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
-    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
-    leo sodales.
+    There's a lady who's sure all that glitters is gold and she's buying a stairway to heaven. 
+    When she gets there she knows If the stores are all closed with a word she can get what she came for.
+    And she's buying a stairway to heaven. There's a sign on the wall but she wants to be sure, cause you know sometimes words have two meanings.
+    In a tree by the brook there's a songbird who sings sometimes all of our thoughts are misgiving. 
   photo: tom.jpg
+
+
+- name: Bruno Grande
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    I know you don't get chance to take a break this often. I know your life is speeding and it isn't stopping
+    You take my shirt and just go ahead and wipe up all the sweat, sweat, sweat.
+    Lose yourself to dance.     Lose yourself to dance.    Lose yourself to dance.    Lose yourself to dance.
+
+  photo: scientificbruno.jpg
+
+- name: Dr. Laura Hilton
+  is_pi: False
+  is_current: True
+  position: Postdoctoral Fellow
+  bio: >
+    It's dark, dark in the daytime. The people sleep, sleep in the daytime. If they want to, if they want to
+    I'm checking them out. I'm checking them out. I got it figured out. I got it figured out
+    There's good points and bad points...
+  photo: harry.jpg
+
+
+
+
+- name: Prasath Pararajalingam
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    I'm Henry the eighth I am, Henry the eighth I am, I am. I got married to the widow next door
+    She's been married seven times before, and every one was an Henry (Henry). She wouldn't have a Willy or a Sam (no Sam)
+    I'm her eighth old man, I'm Henry, Henry the eighth I am. Second verse same as the first
+  photo: pp.JPG
+
+
+- name: Christopher Rushton
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    May I have your attention please? May I have your attention please?
+    Will the real Slim Shady please stand up? I repeat, will the real Slim Shady please stand up?
+    We're gonna have a problem here..
+  photo: crushton.jpg
+
+
+
+- name: Jeffrey Tang
+  is_pi: False
+  is_current: True
+  position: MSc Student
+  bio: >
+    In a gadda da vida, honey. Don't you know that I'm lovin' you. In a gadda da vida, baby Don't you know that I'll always be tru. Oh, won't you come with me. And take my hand. Oh, won't you come with me And walk this land. Please take my hand. 
+  photo: harry.jpg
 
 
 
